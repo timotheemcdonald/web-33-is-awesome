@@ -21,6 +21,7 @@ function App() {
       <p>
        "Everyone loves me." - Tim 'Timmy' McDonald
       </p>
+      <p>"We love him." - Everyone</p>
       <br />
     </main>
   );
